@@ -1,4 +1,4 @@
-># Task Manager-for-Linux
+># Linux Task Manager
 >![KakaoTalk_20220315_230230196](https://user-images.githubusercontent.com/63365132/158395323-cd9f9e64-c783-4ef7-acf5-a1c33eb24ef9.png)
 >
 >리눅스 수업 과제로 작업 관리자를 만들었습니다.
